@@ -5,9 +5,25 @@ html , body {
 
 }
 
+h1{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(235, 197, 197);
+    border: solid 2px red ;
+    padding: 3px;
+}
+
+h2{
+     width: 385px;
+    height: 40px;
+    background-color: rgb(235, 197, 197);
+    border: solid 2px red ;
+    padding: 3px;
+}
+
 body {
 
-    background-color: rgb(105, 102, 102); 
+    background-color: rgb(163, 40, 40); 
     
 }
 
@@ -15,7 +31,10 @@ body {
     width: 460px;
     height: 260px;
     background-color: rgb(235, 197, 197);
-    border: solid 2px ;
+    border: solid 2px red ;
     padding: 3px;
     
+}
+.asmara {
+    background-color: blue;
 }
